@@ -1,0 +1,15 @@
+*.pyc 
+*~ 
+__pycache__ 
+media 
+db.sqlite3 
+/static 
+.DS_Store 
+
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+
